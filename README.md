@@ -1,1 +1,3 @@
 # Divorce-Prediction
+Grade received: 96. The data is survey data, in which each entry is ratings of statements regarding the relationship of the person answering the survey, and whether the couple got divorced or not. The project was later changed to predicting whether a couple 'feels like strangers living in the same environment' which was one of the survey statements, based on the other statements. The project involves exploratory data analysis, data visualisations, various machine learning classification methods, and more. Used Python, pandas, numpy, scikit-learn, and matplotlib.
+Independent project as part of Workshop in Data Science course.
